@@ -1,0 +1,144 @@
+.stApp{
+
+    background:
+    linear-gradient(
+    135deg,
+    #061826,
+    #0b2f45,
+    #102f52
+    );
+
+    color:white;
+}
+
+.main-title{
+
+    text-align:center;
+
+    font-size:52px;
+
+    font-weight:bold;
+
+    color:white;
+
+    margin-top:10px;
+
+    text-shadow:
+    0px 0px 18px cyan;
+}
+
+.sub-title{
+
+    text-align:center;
+
+    font-size:22px;
+
+    color:#d7f3ff;
+
+    margin-bottom:30px;
+}
+
+.glass-card{
+
+    background:
+    rgba(255,255,255,0.08);
+
+    border-radius:22px;
+
+    padding:25px;
+
+    backdrop-filter:blur(14px);
+
+    border:
+    1px solid rgba(255,255,255,0.15);
+
+    box-shadow:
+    0px 0px 18px rgba(0,255,255,0.15);
+
+    margin-bottom:20px;
+}
+
+.metric-card{
+
+    background:
+    rgba(255,255,255,0.08);
+
+    border-radius:22px;
+
+    padding:20px;
+
+    text-align:center;
+
+    height:240px;
+
+    box-shadow:
+    0px 0px 18px rgba(0,255,255,0.15);
+}
+
+.metric-title{
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    color:#d8ffff;
+}
+
+.metric-value{
+
+    font-size:34px;
+
+    margin-top:15px;
+
+    font-weight:bold;
+}
+
+.metric-sub{
+
+    margin-top:10px;
+
+    color:#d0ebff;
+}
+
+textarea{
+
+    background:#0b2235 !important;
+
+    color:white !important;
+
+    border-radius:16px !important;
+}
+
+.stButton>button{
+
+    width:100%;
+
+    background:
+    linear-gradient(
+    90deg,
+    #00c6ff,
+    #0072ff
+    );
+
+    border:none;
+
+    color:white;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    height:55px;
+
+    border-radius:15px;
+}
+
+.stButton>button:hover{
+
+    background:
+    linear-gradient(
+    90deg,
+    #00f2fe,
+    #4facfe
+    );
+}

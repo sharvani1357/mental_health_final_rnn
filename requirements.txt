@@ -1,0 +1,9 @@
+streamlit==1.37.1
+tensorflow-cpu==2.19.0
+numpy
+pandas
+scikit-learn
+plotly
+nltk
+pickle-mixin
+matplotlib
